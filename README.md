@@ -14,7 +14,6 @@
 
 ## 使用
 
-- 修改 [ci.yml 文件的第 7、8 行](https://github.com/budaoweng2019/auto_green/blob/master/.github/workflows/ci.yml#L7-L8) 
 - 修改 [ci.yml 文件的第 23、24 行](https://github.com/budaoweng2019/auto_green/blob/master/.github/workflows/ci.yml#L19-L20) 为自己的 GitHub 账号和昵称
 - (可选) 你可以通过修改 [ci.yml 文件的第 8 行](https://github.com/budaoweng2019/auto_green/blob/master/.github/workflows/ci.yml#L8)来调整频率
 
