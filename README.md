@@ -1,7 +1,5 @@
 # auto-green
 
-[![Build Status](https://github.com/justjavac/auto-green/workflows/ci/badge.svg?branch=master)](https://github.com/justjavac/auto-green/actions)
-
 自动保持 GitHub 提交状态常绿。
 
 > 今天你绿了吗？
@@ -16,9 +14,9 @@
 
 ## 使用
 
-- 修改 [ci.yml 文件的第 7、8 行](https://github.com/justjavac/auto-green/blob/master/.github/workflows/ci.yml#L7-L8) 
-- 修改 [ci.yml 文件的第 23、24 行](https://github.com/justjavac/auto-green/blob/master/.github/workflows/ci.yml#L19-L20) 为自己的 GitHub 账号和昵称
-- (可选) 你可以通过修改 [ci.yml 文件的第 8 行](https://github.com/justjavac/auto-green/blob/master/.github/workflows/ci.yml#L8)来调整频率
+- 修改 [ci.yml 文件的第 7、8 行](https://github.com/budaoweng2019/auto_green/blob/master/.github/workflows/ci.yml#L7-L8) 
+- 修改 [ci.yml 文件的第 23、24 行](https://github.com/budaoweng2019/auto_green/blob/master/.github/workflows/ci.yml#L19-L20) 为自己的 GitHub 账号和昵称
+- (可选) 你可以通过修改 [ci.yml 文件的第 8 行](https://github.com/budaoweng2019/auto_green/blob/master/.github/workflows/ci.yml#L8)来调整频率
 
 计划任务语法有 5 个字段，中间用空格分隔，每个字段代表一个时间单位。
 
